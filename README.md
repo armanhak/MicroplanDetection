@@ -4,4 +4,4 @@
 
 
 Ниже представлен матрица сопряженности тестовой выборки
-!['no_image'](https://github.com/armanhak/MicroplanDetection/blob/master/test_confussion%20matrix.png?raw=true)
+!(https://github.com/armanhak/MicroplanDetection/blob/master/test_confussion%20matrix.png?raw=true)
